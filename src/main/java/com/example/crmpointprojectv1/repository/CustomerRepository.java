@@ -1,4 +1,4 @@
-package com.example.crmpointprojectv1.repositories;
+package com.example.crmpointprojectv1.repository;
 
 import com.example.crmpointprojectv1.model.Customer;
 import org.springframework.data.jpa.repository.JpaSpecificationExecutor;

@@ -1,7 +1,7 @@
 package com.example.crmpointprojectv1.controller;
 
 import com.example.crmpointprojectv1.model.Customer;
-import com.example.crmpointprojectv1.repositories.CustomerRepository;
+import com.example.crmpointprojectv1.repository.CustomerRepository;
 import com.example.crmpointprojectv1.services.CustomerService;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;

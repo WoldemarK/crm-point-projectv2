@@ -1,7 +1,7 @@
 package com.example.crmpointprojectv1.services;
 
 import com.example.crmpointprojectv1.model.Customer;
-import com.example.crmpointprojectv1.repositories.CustomerRepository;
+import com.example.crmpointprojectv1.repository.CustomerRepository;
 import com.example.crmpointprojectv1.specifications.CustomerDatatableFilter;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.domain.Page;
